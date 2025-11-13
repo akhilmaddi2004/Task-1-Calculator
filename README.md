@@ -23,6 +23,6 @@
 
 ## 📸 Screenshot
 
-<img width="1919" height="1003" alt="task1_screenshot1" src="https://github.com/user-attachments/assets/d4036734-cc93-4ddc-b531-93f3692c21a1" />
+![Calculator Screenshot](https://github.com/akhilmaddi2004/Task-1-Calculator/blob/main/calculator_cli/task1_screenshot1.png )
 
-
+![Calculator Screenshot](https://github.com/akhilmaddi2004/Task-1-Calculator/blob/main/calculator_cli/task1_screenshot1.png )
