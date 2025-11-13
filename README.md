@@ -25,4 +25,4 @@
 
 ![Calculator Screenshot](https://github.com/akhilmaddi2004/Task-1-Calculator/blob/main/calculator_cli/task1_screenshot1.png )
 
-![Calculator Screenshot](https://github.com/akhilmaddi2004/Task-1-Calculator/blob/main/calculator_cli/task1_screenshot1.png )
+![Calculator Screenshot](https://github.com/akhilmaddi2004/Task-1-Calculator/blob/main/calculator_cli/task1_screenshot2.png )
